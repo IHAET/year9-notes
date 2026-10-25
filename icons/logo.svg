@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#1f2c47"/>
+  <!-- back card -->
+  <g transform="rotate(-11 512 540)">
+    <rect x="232" y="196" width="560" height="690" rx="54" fill="#141d31" transform="translate(10 22)"/>
+    <rect x="232" y="196" width="560" height="690" rx="54" fill="#d9d0bd"/>
+  </g>
+  <!-- front card -->
+  <g transform="rotate(4 512 540)">
+    <rect x="232" y="186" width="560" height="690" rx="54" fill="#141d31" transform="translate(8 26)"/>
+    <rect x="232" y="186" width="560" height="690" rx="54" fill="#fffaf0"/>
+    <!-- "9" badge -->
+    <circle cx="694" cy="290" r="70" fill="#18223a"/>
+    <circle cx="694" cy="274" r="27" fill="none" stroke="#fffdf8" stroke-width="17"/>
+    <path d="M721 274 L712 336" stroke="#fffdf8" stroke-width="17" stroke-linecap="round" fill="none"/>
+    <!-- six colour-coded lines -->
+    <g>
+      <rect x="300" y="404" width="52" height="52" rx="12" fill="#2563eb"/>
+      <rect x="378" y="420" width="330" height="20" rx="10" fill="#cfc6b5"/>
+      <rect x="300" y="480" width="52" height="52" rx="12" fill="#16a34a"/>
+      <rect x="378" y="496" width="260" height="20" rx="10" fill="#cfc6b5"/>
+      <rect x="300" y="556" width="52" height="52" rx="12" fill="#eab308"/>
+      <rect x="378" y="572" width="310" height="20" rx="10" fill="#cfc6b5"/>
+      <rect x="300" y="632" width="52" height="52" rx="12" fill="#dc2626"/>
+      <rect x="378" y="648" width="220" height="20" rx="10" fill="#cfc6b5"/>
+      <rect x="300" y="708" width="52" height="52" rx="12" fill="#9333ea"/>
+      <rect x="378" y="724" width="290" height="20" rx="10" fill="#cfc6b5"/>
+      <rect x="300" y="784" width="52" height="52" rx="12" fill="#ea580c"/>
+      <rect x="378" y="800" width="180" height="20" rx="10" fill="#cfc6b5"/>
+    </g>
+    <!-- title line -->
+    <rect x="300" y="262" width="250" height="34" rx="17" fill="#18223a"/>
+    <rect x="300" y="318" width="170" height="22" rx="11" fill="#b9af9c"/>
+  </g>
+</svg>
